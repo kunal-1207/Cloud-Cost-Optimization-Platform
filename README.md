@@ -230,8 +230,3 @@ We welcome contributions! Feel free to:
 This project is licensed under the **MIT License**.
 
 ---
-
-Let me know if you'd like this turned into a real `README.md` file in your project, or want me to generate a badge for test coverage, CI, or Docker support.
-
-```
-```
